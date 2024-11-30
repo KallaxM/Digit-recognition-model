@@ -56,8 +56,8 @@ You can visualize these metrics int the MNIST_train_two_digit_Results folder.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/two-digit-recognition.git
-   cd two-digit-recognition
+   git clone https://github.com/KallaxM/Two-digit-recognition-model.git
+   cd Two-digit-recognition-model
    ```
 
 2. Install the dependencies
