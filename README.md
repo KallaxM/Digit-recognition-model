@@ -1,4 +1,4 @@
-# Two-Digit Recognition using MNIST Dataset
+# Video data scraping
 
 Student project
 
@@ -56,8 +56,8 @@ You can visualize these metrics int the MNIST_train_two_digit_Results folder.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KallaxM/Two-digit-recognition-model.git
-   cd Two-digit-recognition-model
+   git clone https://github.com/KallaxM/Video-data-scraping.git
+   cd Video-data-scraping
    ```
 
 2. Install the dependencies
